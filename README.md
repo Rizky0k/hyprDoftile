@@ -11,6 +11,17 @@ My First ever .dotfile config for my first ever hyprland experience :3
     <li>Hyprshot</li>
   </ul>
 </details>
+  <ul>
+    <li>Waybar</li>
+    <li>Wofi</li>
+    <li>hypridle</li>
+    <li>hyprlock</li>
+    <li>wlogout</li>
+    <li>Kitty</li>
+    <li>Nautilus</li>
+    <li>nm-applet</li>
+    <li>Swaync</li>
+  </ul>
 
 ### To Do
 <ul>
@@ -18,7 +29,7 @@ My First ever .dotfile config for my first ever hyprland experience :3
   <li>[ ] Change wlogout icon</li>
   <li>[ ] Rice yazi</li>
   <li>[ ] Rice(or atleast change bg-color :3) ly</li>
-  <li>[ ] Add Network Manager</li>
+  <li>[x] Add Network Manager</li>
   <li>[ ] rice Fastfetch</li>
 </ul>
 
