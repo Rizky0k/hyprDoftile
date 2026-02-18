@@ -52,9 +52,9 @@ button:hover {
 }
 
 /* you can set a style on hover for any module like this */
-#pulseaudio:hover {
+/*#pulseaudio:hover {
     background-color: #a37800;
-}
+}*/
 
 #workspaces button {
     padding: 0 5px;
@@ -100,11 +100,23 @@ button:hover {
     padding: 0 10px;
     color: #ffffff;
 }
-#custom-jats {
+#group-tray-expander {
     min-width: 12px;
     margin-right: 7.5px;
 }
-#custom-power {
+#custom-expand-icon{
+    min-width: 12px;
+    margin-right: 7.5px;
+}
+#custom-notif {
+    margin-right: 12px;
+    margin-left: 4px;
+}
+#custom-monitor {
+    margin-right: 12px;
+    margin-left: 7.5px;
+}
+#group-notify {
     min-width: 12px;
     margin-left: 7.5px;
 }
